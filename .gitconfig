@@ -1,0 +1,9 @@
+[user]
+    name = ThomasvLingen
+    email = thovali96@gmail.com
+[push]
+    default = simple
+[alias]
+    lg = log --graph --abbrev-commit --decorate --date=relative --all
+    iclean = clean -idf
+    nuke = clean -idfx

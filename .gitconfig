@@ -7,3 +7,4 @@
     lg = log --graph --abbrev-commit --decorate --date=relative --all
     iclean = clean -idf
     nuke = clean -idfx
+    branchtracking = branch -vv
